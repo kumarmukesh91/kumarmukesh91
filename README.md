@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hi, I'm Mukesh - a passionate Full-Stack Engineer based in Berlin, Germany, with 11+ years of experience building scalable products for startups and enterprises in the fintech, travel, e-commerce, and green energy sectors.<br>
+Hi, I'm Mukesh - a passionate Saff Engineer based in Berlin, Germany, with 11+ years of experience building scalable products for startups and enterprises in the fintech, travel, e-commerce, and green energy sectors.<br>
 
-🔭 I’m currently working on frontend architecture improvements and scalable web platforms at Zolar, focusing on renewable energy solutions.
+🔭 I’m currently working on frontend architecture improvements and scalable web platforms at Lyft, focusing on taxi dispatching solutions.
 
 👯 I’m looking to collaborate on open-source projects related to React.js, Node.js, serverless architecture, or developer tooling.
 
